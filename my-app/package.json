@@ -1,0 +1,15 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Angular application for study",
+  "main": "index.js",
+  "scripts": {
+    "start": "ng serve --hmr"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^12.0.0"
+  }
+}
